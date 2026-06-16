@@ -1,4 +1,14 @@
 ## Hi there 👋
+### 🏅 Certifications IBM SkillsBuild
+
+| Certificat | Sujet | Date de complétion |
+| :--- | :--- | :--- |
+| ![IA Cert 1](1Completion%20Certificate%20_%20SkillsBuild.png) | [Introduction to Artificial Intelligence](https://students.yourlearning.ibm.com/certificate/share/03e6c83d00ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICIzMjg5NDM2UkVHIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfMzk1NTE2MiIKfQb952bc41ff-10) | 14 Juin 2026 |
+| ![IA Cert 2](2Completion%20Certificate%20_%20SkillsBuild.png) | [The Intelligence Behind AI](https://students.yourlearning.ibm.com/certificate/share/0da74dae6dewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICIzMjg5NDM2UkVHIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfMzk1NTE2NCIKfQ1ab4e30c4f-10) | 15 Juin 2026 |
+
+##🌱 I’m currently learning https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2
+
+*Cliquez sur les liens ou sur les images pour voir les détails de la certification.*
 
 <!--
 **Metphet1315/Metphet1315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
