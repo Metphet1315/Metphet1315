@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Melchior Chuvin
 
-I am a 17-year-old student, passionate about the intersection of **IT Infrastructure, Cloud Computing, AI, and Music**. Currently enrolled at the **CNED** with a focus on **Mathematics and NSI** (Numérique et Sciences Informatiques), I balance rigorous academic studies with a dedicated commitment to professional technical mastery.
+I am a 17-year-old student, passionate about the intersection of **IT Infrastructure, Cloud Computing, AI, and Music**. Currently enrolled at the **CNED** with a focus on **Mathematics and NSI** (Mathematics and Digital Sciences and Computer Science), I balance rigorous academic studies with a dedicated commitment to professional technical mastery.
 
 ### 🔭 What I do
 * **Infrastructure & DevOps:** Architecting and managing a personal Homelab (Proxmox, Docker) and deploying resilient B2B SaaS solutions.
@@ -29,9 +29,6 @@ I am a 17-year-old student, passionate about the intersection of **IT Infrastruc
 * **Academic Goal:** Integrating a top-tier **BUT Réseaux & Télécommunications** to build a solid foundation in network engineering and IoT.
 * **Professional Goal:** Achieving the **Google Cloud Digital Leader** certification upon turning 18 in December 2026.
 * **Vision:** Specialized in integrating AI for datacenters and IoT security.
-
----
-
 
 ---
 
