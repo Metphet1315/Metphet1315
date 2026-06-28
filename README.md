@@ -3,7 +3,7 @@
 I am a 17-year-old student, passionate about the intersection of **IT Infrastructure, Cloud Computing, AI, and Music**. Currently enrolled at the **CNED** with a focus on **Mathematics and NSI** (Mathematics and Digital Sciences and Computer Science), I balance rigorous academic studies with a dedicated commitment to professional technical mastery.
 
 ### 🔭 What I do
-* **Infrastructure & DevOps:** Architecting and managing a personal Homelab (Proxmox, Docker) and deploying resilient B2B SaaS solutions.
+* **Infrastructure & DevOps:** Architecting and managing a personal Homelab (Proxmox, Docker) and beta deploying resilient B2B SaaS solutions.
 * **Automation & Data:** Developing complex pipelines (n8n, Python) for automated data intelligence and threat monitoring.
 * **Art & Digital:** Exploring the creative side of technology through digital art and VJing for live performances.
 * **Music:** Dedicated oboist at the Cannes Conservatory, blending rigor and creativity.
