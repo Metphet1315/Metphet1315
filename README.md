@@ -18,7 +18,7 @@ I am a 17-year-old student, passionate about the intersection of **IT Infrastruc
 | ![IA Module 1](1Completion%20Certificate%20_%20SkillsBuild.png) | Introduction to Artificial Intelligence | 14 Juin 2026 |
 | ![IA Module 2](2Completion%20Certificate%20_%20SkillsBuild.png) | The Intelligence Behind AI | 15 Juin 2026 |
 | ![IA Module 3](3Completion%20Certificate%20_%20SkillsBuild.png) | Machine Learning| 28 Juin 2026 |
-| ![IA Module 3](4Completion%20Certificate%20_%20SkillsBuild.png) | Machine Learning| 28 Juin 2026 |
+| ![IA Module 3](4Completion%20Certificate%20_%20SkillsBuild.png) | Neural Networks and Deep Learning| 29 Juin 2026 |
 | Cloud Computing Fundamentals - 22% |  |  |
 
 
