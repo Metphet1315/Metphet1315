@@ -2,7 +2,7 @@
 
 I am a 17-year-old student, passionate about the intersection of **IT Infrastructure, Cloud Computing, AI, and Music**. Currently enrolled at the **CNED** with a focus on **Mathematics and NSI** (Mathematics and Digital Sciences and Computer Science), I balance rigorous academic studies with a dedicated commitment to professional technical mastery.
 
-### 🔭 What I do
+### What I do
 * **Infrastructure & DevOps:** Architecting and managing a personal Homelab (Proxmox, Docker) and beta deploying resilient B2B SaaS solutions.
 * **Automation & Data:** Developing complex pipelines (n8n, Python) for automated data intelligence and threat monitoring.
 * **Art & Digital:** Exploring the creative side of technology through digital art and VJing for live performances.
@@ -10,20 +10,21 @@ I am a 17-year-old student, passionate about the intersection of **IT Infrastruc
 
 ---
 
-### 🏅 Certifications IBM SkillsBuild
+### Certifications IBM SkillsBuild
 
 | Certificat | Sujet | Date de complétion |
 | :--- | :--- | :--- |
 | AI Fundamentals: Foundations for Understanding AI - 75% |  |  |
-| ![IA Cert 1](1Completion%20Certificate%20_%20SkillsBuild.png) | Introduction to Artificial Intelligence | 14 Juin 2026 |
-| ![IA Cert 2](2Completion%20Certificate%20_%20SkillsBuild.png) | The Intelligence Behind AI | 15 Juin 2026 |
-| ![IA Cert 3](3Completion%20Certificate%20_%20SkillsBuild.png) | Machine Learning| 28 Juin 2026 |
+| ![IA Module 1](1Completion%20Certificate%20_%20SkillsBuild.png) | Introduction to Artificial Intelligence | 14 Juin 2026 |
+| ![IA Module 2](2Completion%20Certificate%20_%20SkillsBuild.png) | The Intelligence Behind AI | 15 Juin 2026 |
+| ![IA Module 3](3Completion%20Certificate%20_%20SkillsBuild.png) | Machine Learning| 28 Juin 2026 |
+| ![IA Module 3](4Completion%20Certificate%20_%20SkillsBuild.png) | Machine Learning| 28 Juin 2026 |
 | Cloud Computing Fundamentals - 22% |  |  |
 
 
 ---
 
-### 🌱 Current Focus & Future Goals
+### Current Focus & Future Goals
 * **Learning:** Currently pursuing [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2).
 * **Intermediate Roadmap:** Depending on my schedule, I plan to tackle these IBM tracks before moving to Google certifications:
     * [Python for Data Science](https://students.yourlearning.ibm.com/activity/SN-COURSE-V1:COGNITIVECLASS+PY0101EN+V3)
@@ -40,16 +41,16 @@ I am a 17-year-old student, passionate about the intersection of **IT Infrastruc
 
 Je suis un étudiant de 17 ans, passionné par l'intersection entre **l'infrastructure IT, le Cloud Computing, l'IA et la musique**. Actuellement scolarisé au **CNED** avec une spécialisation en **Mathématiques et NSI** (Numérique et Sciences Informatiques), je combine des études académiques exigeantes avec un engagement autonome envers la maîtrise technique professionnelle.
 
-### 🔭 Ce que je fais
+### Ce que je fais
 * **Infrastructure & DevOps :** Architecture et gestion d'un Homelab personnel (Proxmox, Docker) et déploiement beta de solutions SaaS B2B résilientes.
 * **Automatisation & Données :** Développement de pipelines complexes (n8n, Python) pour l'intelligence de données automatisée et la surveillance des menaces.
 * **Art & Numérique :** Exploration de la dimension créative de la technologie à travers l'art génératif et le VJing pour des performances live.
 * **Musique :** Hautboïste passionné au Conservatoire de Cannes.
 
-### 🏅 Certifications IBM SkillsBuild
-*(Voir le tableau ci-dessus pour les détails et liens de vérification)*
+### Certifications IBM SkillsBuild
+*(Voir le tableau ci-dessus pour les détails)*
 
-### 🌱 Objectifs et Focus actuel
+### Objectifs et Focus actuel
 * **Apprentissage :** En cours de validation du module [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2).
 * **Parcours intermédiaire :** Je prévois de suivre plusieurs formations IBM (Python, DevOps, Cloud, AI) avant de me spécialiser sur les certifications Google.
 * **Objectif académique :** Intégrer un **BUT Réseaux & Télécommunications** de premier plan pour poser des bases solides en ingénierie réseau et IoT.
@@ -58,4 +59,4 @@ Je suis un étudiant de 17 ans, passionné par l'intersection entre **l'infrastr
 
 
 
-*Cliquez sur les liens ou sur les images de la version anglaise pour voir les détails de la certification.*
+*Cliquez sur les images de la version anglaise pour voir les détails de la certification.*
